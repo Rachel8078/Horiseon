@@ -25,7 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,22 +33,20 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* test whether these should have <header> or not */
 header a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* test whether these should have <header> or not */
 header p {
     font-size: 16px;
 }
