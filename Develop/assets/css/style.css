@@ -8,24 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Apply Header Styling */
-header {
+.header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
-header nav {
+.header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,26 +32,24 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+.header div ul {
     list-style-type: none;
 }
 
-header nav ul li {
+.header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-header a {
+a {
     color: #ffffff;
     text-decoration: none;
 }
 
-header p {
+p {
     font-size: 16px;
 }
-/* End Header Styling */
 
-/* Apply Hero Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -191,14 +188,13 @@ header p {
     font-size: 36px;
 }
 
-/* Footer Styling */
-footer {
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
 }
