@@ -28,3 +28,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Completed Challenge
+
+* Link to deployed application: [Horiseon](https://rachel8078.github.io/Horiseon/)
+
+* ![Screenshot of webpage](./assets/images/screenshot.png)
+
